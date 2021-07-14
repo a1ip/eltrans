@@ -3,7 +3,7 @@ layout: default
 title: Спутниковая Система Швартовки
 lang: ru
 ---
-<img src="/images/sms.jpg" width="100" height="127" align="left" class="bleft" />
+<img src="{{ "/images/sms.jpg" | relative_url }}" width="100" height="127" align="left" class="bleft" />
 
 ### Установлена Спутниковая Система Швартовки
 
