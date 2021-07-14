@@ -1,5 +1,14 @@
 ---
-title: Home
-layout: news
 lang: en
+layout: default
+title: News
 ---
+{% for post in site.posts -%}
+{% if post.lang == "en" -%}
+<span class="news">
+<!--<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y-%m-%d" }}</time>-->
+<h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+{{ post.excerpt }}
+</span>
+{% endif -%}
+{% endfor -%}
