@@ -18,6 +18,7 @@ exclude:
   - redirect.conf_
   - vendor
 
+url: https://rigovanov.ru
 baseurl: "/eltrans"
 
 locales:
