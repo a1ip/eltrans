@@ -8,7 +8,7 @@ lang: en
 <img src="{{ "/images/director.jpg" | relative_url }}" width="123" height="147" align="left" class="bleft" title="photo V.G. Senchenko" />
 
 Viсtor Grigorievich Senchenko
-graduated  Novorossiysk Engineering Maritime Academy(Radio engineering department) in 1981, and post-graduate course of Leningrad Engineering Maritime Academy in 1986.<br><br><br><br><br>
+graduated  Novorossiysk Engineering Maritime Academy(Radio engineering department) in 1981, and post-graduate course of Leningrad Engineering Maritime Academy in 1986.<br><br><br><br><br><br><br><br>
 
 <h3>A.K. Chirko<br>Chief technology officer</h3>
 
