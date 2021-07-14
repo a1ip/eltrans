@@ -20,6 +20,12 @@ exclude:
 url: "https://rigovanov.ru"
 baseurl: "/eltrans"
 
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  ignore:
+    envs: [local]
+
 locales:
   sitelinks:
     en:
