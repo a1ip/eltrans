@@ -3,7 +3,7 @@ layout: default
 title: Система гидрометеорологического мониторинга
 lang: ru
 ---
-<img src="/images/ashm.jpg" width="150" height="113" align="left" class="bleft" />
+<img src="{{ "/images/ashm.jpg" | relative_url }}" width="150" height="113" align="left" class="bleft" />
 
 ### Установлена Система гидрометеорологического мониторинга
 
