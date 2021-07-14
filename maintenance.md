@@ -3,10 +3,13 @@ title: Сервис
 layout: default
 lang: ru
 ---
-<a href="http://www.furuno.co.jp/english/" target="_blank"><img src="{{ "/images/logo_furuno.gif" | relative_url }}" width="188" height="37" align="right"></a><p>ООО «Элтранс» является</p>
-*   авторизованным сервисным агентом<br>компании [FURUNO DANMARK AS](http://www.furuno.co.jp/english/) 
-
-*   сервисным центром [ЗАО «ТРАНЗАС»](http://www.transas.ru) <a href="http://transas.ru/" target="_blank"><img src="{{ "/images/logo_transas.gif" | relative_url }}" width="146" height="36" align="rigth"></a><br><br>
+<a href="http://www.furuno.co.jp/english/" target="_blank"><img src="{{ "/images/logo_furuno.gif" | relative_url }}" width="188" height="37" align="right" /></a><p>ООО «Элтранс» является</p>
+<ul>
+<li>авторизованным сервисным агентом<br />
+ компании  <a href="http://www.furuno.co.jp/english/" target="_blank">FURUNO DANMARK AS</a><a href="http://www.transas.ru" target="_blank"><img src="{{ "/images/logo_transas.gif" | relative_url }}" width="146" height="36" align="right" /></a><br /><br />
+</li>
+<li>сервисным центром <a href="http://www.transas.ru" target="_blank">ЗАО «ТРАНЗАС»</a></li>
+</ul>
 
 Мы также осуществляем:
 
