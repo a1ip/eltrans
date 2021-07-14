@@ -20,6 +20,9 @@ exclude:
 url: "https://rigovanov.ru"
 baseurl: "/eltrans"
 
+sass:
+  style: compressed
+
 compress_html:
   clippings: all
   comments: ["<!-- ", " -->"]
