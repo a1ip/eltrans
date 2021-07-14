@@ -152,6 +152,14 @@ ul.certificates li
 margin-bottom: 50px;
 }
 
+h1
+{
+font-size: 12pt;
+font-family: Arial;
+font-weight: bold;
+color: #FF6600;
+}
+
 h2
 {
 font-size: 12pt;
