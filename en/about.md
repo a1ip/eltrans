@@ -14,4 +14,4 @@ We also supply, install and adjust modern automated Systems in safety navigation
 
 Eltrans Ltd.  is  recognized  company  by Russian Maritime Register of Shipping, Russian River Register and  has certified  Quality management system  in accordance with the requirements of ISO 9001:2000.
 
-Please see our certificates and licenses in [Certificates](certificates_.html "Certificates") section
+Please see our certificates and licenses in [Certificates]({{ "/en/certificates" | relative_url }} "Certificates") section.
