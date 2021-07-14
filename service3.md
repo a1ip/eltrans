@@ -10,4 +10,4 @@ lang: ru
 *   тренажер судовой энергетической установки,
 *   тренажер грузобалластных и технологических операций на судах.
 
-Оборудование TRANSAS[![]({{ "/images/logo_transas.gif" | relative_url }})](http://www.transas.com)
+Оборудование TRANSAS [<img src="{{ "/images/logo_transas.gif" | relative_url }}" width="146" height="36" align="right" />](http://www.transas.com)
