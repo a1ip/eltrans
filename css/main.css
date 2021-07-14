@@ -19,7 +19,7 @@ div
 position:absolute;
 overflow:hidden;
 }
-/*РЁР°РїРєР°*/
+/*Шапка*/
 #head
 {
 left: 18px;
@@ -28,7 +28,7 @@ width: 753px;
 height: 177px;
 z-index: 8;
 }
-/*Р‘Р°РЅРµСЂС‹ :)*/
+/*Банеры :)*/
 #mailru
 {
 left: 52px;
