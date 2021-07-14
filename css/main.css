@@ -446,3 +446,8 @@ td a
 {
 text-decoration: none;
 }
+
+.news h3 > a
+{
+text-decoration: none;
+}
