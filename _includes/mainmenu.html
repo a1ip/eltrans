@@ -1,10 +1,10 @@
 <div id="mm">
   {% if page.lang == "ru" -%}
   <a href="{{ "/" | relative_url }}">Главная</a>&nbsp;&nbsp;  |&nbsp;&nbsp; <a href="{{ "/about" | relative_url }}">О
-  нас</a>&nbsp;&nbsp; |&nbsp;&nbsp; <a href="{{ "/products" | relative_url }}">Услуги</a>&nbsp;  |&nbsp; <a href="{{ "/maintenance" | relative_url }}">Обслуживание</a>&nbsp;|&nbsp;&nbsp; <a href="{{ "/contacts" | relative_url }}">Контакты</a>
+  нас</a>&nbsp;&nbsp; |&nbsp;&nbsp; <a href="{{ "/services" | relative_url }}">Услуги</a>&nbsp;  |&nbsp; <a href="{{ "/maintenance" | relative_url }}">Обслуживание</a>&nbsp;|&nbsp;&nbsp; <a href="{{ "/contacts" | relative_url }}">Контакты</a>
   {% else -%}
   <a href="{{ "/en/" | relative_url }}">Home</a>&nbsp;&nbsp;  |&nbsp;&nbsp; <a href="{{ "/en/about" | relative_url }}">About
-  us</a>&nbsp;&nbsp; |&nbsp;&nbsp; <a href="{{ "/en/products" | relative_url }}">Services</a>&nbsp; |&nbsp;&nbsp; <a 
+  us</a>&nbsp;&nbsp; |&nbsp;&nbsp; <a href="{{ "/en/services" | relative_url }}">Services</a>&nbsp; |&nbsp;&nbsp; <a 
   href="{{ "/en/maintenance" | relative_url }}">Maintenance</a>&nbsp; |&nbsp;&nbsp; <a href="{{ "/en/contacts" | relative_url }}">Contacts</a>
   {% endif -%}
 </div>
