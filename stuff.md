@@ -5,7 +5,7 @@ lang: ru
 ---
 <h3>В.Г. Сенченко<br />Генеральный директор компании «Элтранс»</h3>
 
-<img src="{{ "/images/director.jpg" | relative_url }}" width="123" height="131" align="left" class="bleft" />
+<img src="{{ "/images/director.jpg" | relative_url }}" width="123" height="147" align="left" class="bleft" title="фото В.Г. Сенченко" />
 
 Сенченко Виктор Григорьевич окончил в 1981 году радиотехнический факультет Новороссийского высшего инженерного училища,  в 1986 году -  очную аспирантуру в Ленинградском Инженерном Морском Училище им. адмирала С.О. Макарова. 
 
@@ -16,7 +16,7 @@ lang: ru
 
 <h3>А.К. Чирко<br />Исполнительный директор</h3>
 
-<img src="{{ "/images/zamdir.jpg" | relative_url }}" width="123" height="131" align="left" class="bleft" />
+<img src="{{ "/images/zamdir.jpg" | relative_url }}" width="123" height="131" align="left" class="bleft" title="фото А.К. Чирко" />
 
 Чирко Александр Казимирович окончил в 1991 году радиотехнический факультет Уральского радиотехнического института.
 
