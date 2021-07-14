@@ -15,7 +15,7 @@ layout: nil
       var language = languages[code];
       if (!language) { language = "ru"; }
 
-      document.location = "/" + language + "/";
+      document.location = {{ baseurl }} + language;
     </script>
     <noscript>
       <meta http-equiv="refresh" content="0;/ru/" />
