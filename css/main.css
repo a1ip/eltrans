@@ -1,14 +1,11 @@
 @charset "utf-8";
 /* CSS Document  */
-#main_content
-{
-max-width: 700px;
-margin: 0 auto;
-}
 
-#main_content li
+body
 {
-clear: both;
+position: absolute;
+left: 50%;
+margin-left: -383px;
 }
 
 a
@@ -16,7 +13,13 @@ a
 text-decoration: underline;
 color: #3366FF;
 }
-/*Шапка*/
+
+div
+{
+position:absolute;
+overflow:hidden;
+}
+/*РЁР°РїРєР°*/
 #head
 {
 left: 18px;
@@ -25,7 +28,7 @@ width: 753px;
 height: 177px;
 z-index: 8;
 }
-/*Банеры :)*/
+/*Р‘Р°РЅРµСЂС‹ :)*/
 #mailru
 {
 left: 52px;
@@ -102,7 +105,6 @@ font-weight: bolder;
 font-family: Tahoma;
 color: #000080;
 }
-
 
 /*Главный блок, основное соедержимое страницы*/
 #mb 
@@ -364,7 +366,6 @@ border: 2px solid #FF9933;
 img.right
 {
 margin-left: 40px;
-margin-bottom: 20px;
 }
 
 .impotent
@@ -436,46 +437,4 @@ margin-bottom: 50px;
 td a
 {
 text-decoration: none;
-}
-
-.flag-icon {
-  position: relative;
-  display: inline-block;
-  width: 1.3333333333333333em;
-  line-height: 1em;
-  background-size: contain;
-  background-position: 50%;
-  background-repeat: no-repeat;
-}
-.flag-icon:before {
-  content: "\00a0";
-}
-.flag-icon {
-  width: 1em;
-}
-.flag-icon-background {
-  background-size: contain;
-  background-position: 50%;
-  background-repeat: no-repeat;
-}
-.flag-icon-en {
-  background-image: url(/images/en.svg);
-}
-.flag-icon-ru {
-  background-image: url(/images/ru.svg);
-}
-
-.flag-icon-background a, .flag-icon-background a:link, .flag-icon-background a:visited
-{
-    color: transparent;
-}
-
-.flag-icon-background a {
-    height: 100px;                        /* be sure to set height & width */
-    width:  600px;
-
-    /* Hide the text. */
-    text-indent: 100%;
-    white-space: nowrap;
-    overflow: hidden;
 }
